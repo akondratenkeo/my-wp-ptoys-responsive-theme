@@ -1,0 +1,73 @@
+
+@font-face {
+    font-family: 'PT_Sans_Bold';
+    src: url('../font/PT_Sans/ptsans_bold_cyrillic/PTS75F-webfont.eot');
+    src: url('../font/PT_Sans/ptsans_bold_cyrillic/PTS75F-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/PT_Sans/ptsans_bold_cyrillic/PTS75F-webfont.woff') format('woff'),
+         url('../font/PT_Sans/ptsans_bold_cyrillic/PTS75F-webfont.ttf') format('truetype'),
+         url('../font/PT_Sans/ptsans_bold_cyrillic/PTS75F-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PT_Sans_Regular';
+    src: url('../font/PT_Sans/ptsans_regular_cyrillic/PTS55F-webfont.eot');
+    src: url('../font/PT_Sans/ptsans_regular_cyrillic/PTS55F-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/PT_Sans/ptsans_regular_cyrillic/PTS55F-webfont.woff') format('woff'),
+         url('../font/PT_Sans/ptsans_regular_cyrillic/PTS55F-webfont.ttf') format('truetype'),
+         url('../font/PT_Sans/ptsans_regular_cyrillic/PTS55F-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'bebas_neuebold';
+    src: url('../font/bebas_neue/bebasneue_bold.eot');
+    src: url('../font/bebas_neue/bebasneue_bold.eot?#iefix') format('embedded-opentype'),
+         url('../font/bebas_neue/bebasneue_bold.woff') format('woff'),
+         url('../font/bebas_neue/bebasneue_bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bebas_neuebook';
+    src: url('../font/bebas_neue/bebasneue_book.eot');
+    src: url('../font/bebas_neue/bebasneue_book.eot?#iefix') format('embedded-opentype'),
+         url('../font/bebas_neue/bebasneue_book.woff') format('woff'),
+         url('../font/bebas_neue/bebasneue_book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bebas_neuelight';
+    src: url('../font/bebas_neue/bebasneue_light.eot');
+    src: url('../font/bebas_neue/bebasneue_light.eot?#iefix') format('embedded-opentype'),
+         url('../font/bebas_neue/bebasneue_light.woff') format('woff'),
+         url('../font/bebas_neue/bebasneue_light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bebas_neue_regularregular';
+    src: url('../font/bebas_neue/bebasneue_regular.eot');
+    src: url('../font/bebas_neue/bebasneue_regular.eot?#iefix') format('embedded-opentype'),
+         url('../font/bebas_neue/bebasneue_regular.woff') format('woff'),
+         url('../font/bebas_neue/bebasneue_regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bebas_neuethin';
+    src: url('../font/bebas_neue/bebasneue_thin.eot');
+    src: url('../font/bebas_neue/bebasneue_thin.eot?#iefix') format('embedded-opentype'),
+         url('../font/bebas_neue/bebasneue_thin.woff') format('woff'),
+         url('../font/bebas_neue/bebasneue_thin.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
